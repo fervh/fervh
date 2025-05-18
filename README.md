@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=85c1e9&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=f7f9f9&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
+
   # 🤖 Robotics Engineer | Research Technician | Master Student in Robotics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandovh/)
@@ -162,5 +162,5 @@ Passionate about connecting R&D with real applications. Looking for internationa
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=85c1e9&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=footer" width="100%">
 </div>
