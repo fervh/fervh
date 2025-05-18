@@ -73,7 +73,7 @@ Passionate about connecting R&D with real applications. Looking for internationa
 
 ### Areas of Expertise
 
-<table align="center">
+<table align="center" border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="45" height="45" alt="ROS"/>
