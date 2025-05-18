@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=85c1e9 &height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=f7f9f9&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=85c1e9&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=f7f9f9&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
   
   # 🤖 Robotics Engineer | Research Technician | Master Student in Robotics
 
