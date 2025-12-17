@@ -1,166 +1,119 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=280&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="Header"/>
 
-  # 🤖 Robotics Engineer | Research Technician | Master Student in Robotics
+  <p align="center">
+    <h1 align="center" style="margin-top: -180px; color: white; text-shadow: 0px 0px 10px #000000;">Fernando Vela Hidalgo</h1>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandovh/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velahidalgofernando@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=About.me&logoColor=white)](https://fervh.github.io/whoami)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Robotics+%26+Autonomous+Systems;UAV+Flight+Control+%26+Firmware;Bridging+Hardware+%26+Software" alt="Typing Effect" />
+  </a>
+  <br/>
 
+  <p align="center" style="margin-top: 50px;">
+    <a href="https://www.linkedin.com/in/fernandovh/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="mailto:velahidalgofernando@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://fervh.github.io/whoami">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06b6d4?style=for-the-badge&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-## 👨‍💻 About Me
+---
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg0YzM5MmVhYjFjZGFiYWUyMjQ2YzgwMjRhMDEzMmEwMjBmNWEyMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/info.png"/> Summary
 
-Robotics engineer with experience in research and development of autonomous systems. Currently working in a research laboratory, specializing in:
+**Senior Software Engineer** and **Roboticist** with a deep focus on the intersection of **Artificial Intelligence**, **Hardware**, and **Control Systems**.
 
-- 🚗 Hardware and software for autonomous vehicles
-- 📊 ROS ecosystem and real-time perception
-- 🔧 Sensor calibration and data fusion
-- 📡 Low-level communication protocols
+Currently optimizing BVLOS operations for UAVs at **Beagle Systems** (Germany), utilizing extensive experience in **ROS/ROS2**, **Embedded Firmware (STM32/PX4)**, and **Computer Vision**. My background bridges the gap between academic R&D (UC3M) and industrial deployment, ensuring robust performance for autonomous systems in real-world environments.
 
-Passionate about connecting R&D with real applications. Looking for international opportunities in robotics, field support, and continuous improvement. Certified drone pilot with practical experience in design, integration, and autonomous systems.
+---
 
-## 🔭 Current Work
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/maintenance.png"/> Technical Arsenal
 
-### Research Technician @ AMPL, UC3M
-
-- 🧠 **Real-time perception systems** with YOLOv5/v8, SECOND
-- 🎯 **Sensor calibration** for LiDAR, Camera, IMU integration
-- 🤖 **ROS1/ROS2 development** and driver implementation
-- 🔌 **Low-level communications** via CAN bus, FlexRay, UDP/TCP/WebRTC/SRT
-- 🔧 **Hardware design** including PCB design and 3D mechanical structures (Fusion 360, Blender)
-
-## 🚀 Projects
-
-<div align="center">
-
-| Project                     | Description                                                                 | Tech Stack                                                                                                                                                                                                                                      |
-| --------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Autonomous Mini Vehicle** | ROS-based autonomous driving platform with perception, planning and control | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)       |
-| **Vision System**           | Computer vision package for object detection and tracking                   | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| **Sensor Fusion Toolkit**   | Tools for calibration and synchronization of heterogeneous sensors          | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)       |
-| **VR Teleoperation**        | VR-based interface for robot teleoperation            | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) |
-
-</div>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree                                                         | Institution                                                   | Period      |
-| -------------------------------------------------------------- | ------------------------------------------------------------- | ----------- |
-| **Master in Robotics and Automation**                          | Universidad Carlos III de Madrid (UC3M)                       | 2023 - 2025 |
-| **B.Sc. in Industrial Electronics and Automation Engineering** | Universidad Carlos III de Madrid (UC3M) - _Bilingual Program_ | 2019 - 2023 |
-
-</div>
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### Areas of Expertise
-
-<table align="center" border="0" style="border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="45" height="45" alt="ROS"/>
-        <br>ROS
+    <td width="33%" align="center" valign="top">
+      <h3>Software & AI</h3>
+      <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,docker&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Focus-Perception_%26_Planning-38bdf8?style=flat-square" />
     </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Embedded"/>
-        <br>Embedded
+    <td width="33%" align="center" valign="top">
+      <h3>Embedded & Flight</h3>
+      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,linux&theme=dark" /><br>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
+      <img src="https://img.shields.io/badge/PX4-333333?style=flat&logo=dji&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ardupilot-F54D50?style=flat&logo=arduino&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Focus-Firmware_%26_Drivers-38bdf8?style=flat-square" />
     </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="ML"/>
-        <br>Perception
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" alt="3D"/>
-      <br>3D Design
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="IoT"/>
-      <br>IoT
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="VR/AR"/>
-      <br>VR/AR
+    <td width="33%" align="center" valign="top">
+      <h3>Tools & Design</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,aws,unity&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=cmake,bash,vscode,blender&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Focus-Sim_%26_DevOps-38bdf8?style=flat-square" />
     </td>
   </tr>
 </table>
 
-## 🏆 Achievements & Certifications
+---
 
-<details>
-<summary><b>🏅 Notable Achievements</b></summary>
-<br>
-  
-- 🚗 Final Master's Thesis: Vehicle Immersion System (2025)
-- 🤖 Final Degree Thesis: Miniature Autonomous Vehicle (2023)
-- 🥇 1st Place – ASTI Robotics Competition (2019)
-- 🔬 Finalist – Young Researchers (Complutense)
-- 📊 Multiple Math Contest Awards (2017-2019)
-  
-</details>
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/briefcase.png"/> Experience & Projects
 
-<details>
-<summary><b>📜 Certifications</b></summary>
-<br>
+| Role / Project                                             | Description                                                             | Tech Stack                                                                                                                                                                                                                                             |
+| :--------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Senior Software Engineer**<br>@ Beagle Systems (Hamburg) | Developing flight control firmware & drivers for long-range BVLOS UAVs. | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![PX4](https://img.shields.io/badge/-PX4-333333?logo=dji&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) |
+| **Research Technician**<br>@ AMPL, UC3M (Madrid)           | Real-time perception & sensor fusion for autonomous shuttles.           | ![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LiDAR](https://img.shields.io/badge/-LiDAR-000?logo=nvidia&logoColor=white)           |
+| **Autonomous Mini Vehicle**<br>Academic Project            | Full-stack autonomous driving platform (Perception, Planning, Control). | ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)                                                                                           |
+| **VR Teleoperation**<br>Master's Thesis                    | Immersive VR interface for robot teleoperation over WebRTC.             | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)                                                                                     |
 
-- 🛩️ **Drone Piloting**
+---
 
-  - EASA A1/A3 Open Category
-  - EASA A2 Open Category
-  - EASA STS-01 Specific Category
-  - EASA STS-02 Specific Category
-  - UAS & Radio Operator License
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/graduation-cap.png"/> Education
 
-- 💻 **Technical**
-  - MATLAB Certification
-  - Python Programming
-  - Cybersecurity Fundamentals
-  - Web Development
-  - Unity Development
+| Degree                                        | Institution                             | Period        |
+| :-------------------------------------------- | :-------------------------------------- | :------------ |
+| **Master in Robotics and Automation**         | Universidad Carlos III de Madrid (UC3M) | _2023 - 2025_ |
+| **B.Sc. Industrial Electronics & Automation** | Universidad Carlos III de Madrid (UC3M) | _2019 - 2023_ |
 
-</details>
+---
 
-## 🌎 Languages & Interests
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/certificate.png"/> Certifications & Achievements
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Licenses</h4>
+      <img src="https://img.shields.io/badge/Drone_Pilot-EASA_A1%2FA3-228B22?style=flat-square&logo=dji&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Drone_Pilot-EASA_A2-228B22?style=flat-square&logo=dji&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Drone_Pilot-EASA_STS--01%2F02-228B22?style=flat-square&logo=dji&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/UAS-Radio_Operator-blue?style=flat-square&logo=dji&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Awards</h4>
+      <img src="https://img.shields.io/badge/Master's_Thesis-Grade_10%2F10-FFD700?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/ASTI_Robotics-1st_Place_(2019)-FFD700?style=flat-square" /><br>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/22/38bdf8/graph.png"/> GitHub Analytics
 
 <div align="center">
   
-  | Languages | Level  |
-  | --------- | ------ |
-  | Spanish   | Native |
-  | English   | C1     |
-  | German    | A2     |
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=fervh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fervh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170" alt="Languages" />
 </div>
 
-<div align="center">
-  
-  ![Drones](https://img.shields.io/badge/Drones-FF4500?style=flat-square)
-  ![Aerial Robotics](https://img.shields.io/badge/Aerial_Robotics-1E90FF?style=flat-square)
-  ![Autonomous Vehicles](https://img.shields.io/badge/Autonomous_Vehicles-4B0082?style=flat-square)
-  ![3D Printing](https://img.shields.io/badge/3D_Printing-008080?style=flat-square)
-  ![Virtual Reality](https://img.shields.io/badge/Virtual_Reality-9932CC?style=flat-square)
-  ![Video Streaming](https://img.shields.io/badge/Video_Streaming-FF6347?style=flat-square)
-  ![Open Source](https://img.shields.io/badge/Open_Source-228B22?style=flat-square)
-
-</div>
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%" />
 </div>
