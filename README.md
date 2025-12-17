@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=280&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="Header"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
 
   <p align="center">
-    <h1 align="center" style="margin-top: -180px; color: white; text-shadow: 0px 0px 10px #000000;">Fernando Vela Hidalgo</h1>
-  </p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Robotics+%26+Autonomous+Systems;UAV+Flight+Control+%26+Firmware;Bridging+Hardware+%26+Software" alt="Typing Effect" />
-  </a>
-  <br/>
-
-  <p align="center" style="margin-top: 50px;">
     <a href="https://www.linkedin.com/in/fernandovh/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
     </a>
@@ -21,9 +13,12 @@
       <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06b6d4?style=for-the-badge&logoColor=white" />
     </a>
   </p>
-</div>
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Robotics+%26+Autonomous+Systems;UAV+Flight+Control+%26+Firmware;Bridging+Hardware+%26+Software" alt="Typing Effect" />
+  </a>
+
+</div>
 
 ## <img src="https://img.icons8.com/ios-filled/22/38bdf8/info.png"/> Summary
 
