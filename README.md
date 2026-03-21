@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/fernandovh/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
     </a>
-    <a href="mailto:velahidalgofernando@gmail.com">
+    <a href="mailto:contact@velahidalgo.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logoColor=white" />
     </a>
     <a href="https://fervh.github.io/whoami">
