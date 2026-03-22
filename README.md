@@ -97,17 +97,19 @@ Currently optimizing BVLOS operations for UAVs at **Beagle Systems** (Germany), 
   </tr>
 </table>
 
----
-
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/graph.png"/> GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fervh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fervh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170" alt="Languages" />
-</div>
 
 <br />
+
+<div align="center">
+
+[![@fervh](https://img.shields.io/badge/%40fervh-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/fervh)
+
+---
+
+> <em>"This is the way."</em>  
+> — <strong>The Mandalorian</strong>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%" />
