@@ -9,7 +9,7 @@
     <a href="mailto:contact@velahidalgo.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logoColor=white" />
     </a>
-    <a href="https://fervh.github.io/whoami">
+    <a href="https://fernando.velahidalgo.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06b6d4?style=for-the-badge&logoColor=white" />
     </a>
   </p>
