@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="191" viewBox="0 0 1000 191" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
-<style>.blink{animation:bk 1.1s steps(1) infinite}.pulse{animation:pl 1.6s ease-in-out infinite}.q{opacity:0;animation:q 4s steps(1,end) infinite}@keyframes bk{50%{opacity:0}}@keyframes pl{0%,100%{opacity:1}50%{opacity:.35}}@keyframes q{0%,25%{opacity:1}25.01%,100%{opacity:0}}</style>
+<style>.blink{animation:bk 1.1s steps(1) infinite}.pulse{animation:pl 1.6s ease-in-out infinite}.q{opacity:0;animation:q 1.6s steps(1,end) infinite}@keyframes bk{50%{opacity:0}}@keyframes pl{0%,100%{opacity:1}50%{opacity:.35}}@keyframes q{0%,25%{opacity:1}25.01%,100%{opacity:0}}</style>
 <rect x="0" y="0" width="1000" height="191" rx="10" fill="#0d1117"/>
 <g font-size="13" xml:space="preserve">
 <text x="24" y="35"><tspan fill="#bc8cff">M.Sc.&#160;Robotics&#160;and&#160;Automation</tspan></text>
