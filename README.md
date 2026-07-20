@@ -14,7 +14,7 @@
 
 </div>
 
-## `//` Summary
+## <samp>&nbsp;$ cat summary.md&nbsp;</samp>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ---
 
-## `//` Tech Stack
+## <samp>&nbsp;➜ ~ tech --stack&nbsp;</samp>
 
 <table width="100%">
   <tbody>
@@ -49,7 +49,7 @@
 
 ---
 
-## `//` Experience
+## <samp>&nbsp;$ git log --oneline experience/&nbsp;</samp>
 
 | Role | Company | Period |
 | :--- | :------ | :----- |
@@ -58,7 +58,7 @@
 
 ---
 
-## `//` Projects
+## <samp>&nbsp;&gt;&gt;&gt; projects&nbsp;</samp>
 
 | Project | Description | Stack |
 | :------ | :---------- | :---- |
@@ -67,7 +67,7 @@
 
 ---
 
-## `//` Education
+## <samp>&nbsp;~/edu λ ls degrees/&nbsp;</samp>
 
 - **M.Sc. Robotics and Automation** · Carlos III University of Madrid (UC3M) · _2023 – 2025_  
   <sub>Thesis: Vehicle Immersion System — 10/10</sub>
@@ -76,7 +76,7 @@
 
 ---
 
-## `//` Achievements & Licenses
+## <samp>&nbsp;● achievements.service&nbsp;</samp>
 
 <table width="100%">
   <tr>
