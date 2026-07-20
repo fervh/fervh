@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="301" viewBox="0 0 1000 301" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
 <rect x="0" y="0" width="1000" height="301" rx="10" fill="#0d1117"/>
-<rect x="0" y="0" width="4" height="301" fill="#7ee787"/>
 <g font-size="13" xml:space="preserve">
 <text x="24" y="35"><tspan fill="#7ee787">fernando@velahidalgo</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$&#160;</tspan><tspan fill="#c9d1d9">systemctl&#160;status&#160;achievements</tspan></text>
 <text x="24" y="79"><tspan fill="#7ee787">●&#160;</tspan><tspan fill="#c9d1d9">achievements.service</tspan><tspan fill="#8b949e">&#160;—&#160;</tspan><tspan fill="#7ee787">active&#160;(running)</tspan></text>

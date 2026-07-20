@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="235" viewBox="0 0 1000 235" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
+<rect x="0" y="0" width="1000" height="235" rx="10" fill="#0d1117"/>
+<g font-size="13" xml:space="preserve">
+<text x="24" y="35"><tspan fill="#7ee787">fernando@velahidalgo</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$&#160;</tspan><tspan fill="#c9d1d9">tail&#160;-f&#160;projects.log</tspan></text>
+<text x="24" y="79"><tspan fill="#8b949e">2025-06-01&#160;10:02:10&#160;</tspan><tspan fill="#7ee787">INFO&#160;&#160;</tspan><tspan fill="#c9d1d9">load&#160;</tspan><tspan fill="#58a6ff">vehicle-immersion-system</tspan></text>
+<text x="24" y="101"><tspan fill="#8b949e">2025-06-01&#160;10:02:10&#160;</tspan><tspan fill="#7ee787">INFO&#160;&#160;</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">Master&#x27;s&#160;Thesis&#160;(10/10)&#160;—&#160;immersive&#160;VR&#160;platform&#160;for&#160;vehicle&#160;teleoperation.</tspan></text>
+<text x="24" y="123"><tspan fill="#8b949e">2025-06-01&#160;10:02:11&#160;</tspan><tspan fill="#bc8cff">DEBUG&#160;</tspan><tspan fill="#8b949e">&#160;&#160;&#160;stack=[</tspan><tspan fill="#7ee787">Unity,&#160;VR,&#160;ROS</tspan><tspan fill="#8b949e">]</tspan></text>
+<text x="24" y="145"><tspan fill="#8b949e">2025-06-01&#160;10:02:12&#160;</tspan><tspan fill="#7ee787">INFO&#160;&#160;</tspan><tspan fill="#c9d1d9">load&#160;</tspan><tspan fill="#58a6ff">miniature-autonomous-vehicle</tspan></text>
+<text x="24" y="167"><tspan fill="#8b949e">2025-06-01&#160;10:02:12&#160;</tspan><tspan fill="#7ee787">INFO&#160;&#160;</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">Bachelor&#x27;s&#160;Thesis&#160;—&#160;end-to-end&#160;autonomous&#160;driving&#160;platform.</tspan></text>
+<text x="24" y="189"><tspan fill="#8b949e">2025-06-01&#160;10:02:13&#160;</tspan><tspan fill="#bc8cff">DEBUG&#160;</tspan><tspan fill="#8b949e">&#160;&#160;&#160;stack=[</tspan><tspan fill="#7ee787">ROS,&#160;OpenCV,&#160;C++</tspan><tspan fill="#8b949e">]</tspan></text>
+<text x="24" y="211"><tspan fill="#8b949e">2025-06-01&#160;10:02:19&#160;</tspan><tspan fill="#7ee787">INFO&#160;&#160;</tspan><tspan fill="#7ee787">2&#160;projects&#160;loaded&#160;✓</tspan></text>
+</g>
+</svg>

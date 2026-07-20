@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="345" viewBox="0 0 1000 345" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
+<rect x="0" y="0" width="1000" height="345" rx="10" fill="#0d1117"/>
+<g font-size="13" xml:space="preserve">
+<text x="24" y="35"><tspan fill="#7ee787">fernando@velahidalgo</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$&#160;</tspan><tspan fill="#c9d1d9">docker&#160;compose&#160;build</tspan></text>
+<text x="24" y="79"><tspan fill="#7ee787">[+]&#160;Building&#160;4.2s&#160;</tspan><tspan fill="#8b949e">(2/2)&#160;</tspan><tspan fill="#7ee787">FINISHED</tspan></text>
+<text x="24" y="101"><tspan fill="#58a6ff">&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">[beagle&#160;1/1]&#160;</tspan><tspan fill="#c9d1d9">Senior&#160;Software&#160;Engineer&#160;—&#160;UAV&#160;Systems</tspan></text>
+<text x="24" y="123"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#58a6ff">Beagle&#160;Systems&#160;·&#160;Hamburg&#160;&#160;</tspan><tspan fill="#8b949e">Sep&#160;2025&#160;–&#160;Present</tspan></text>
+<text x="24" y="145"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">Full&#160;UAV&#160;software&#160;stack,&#160;flight&#160;control&#160;&amp;&#160;perception&#160;for&#160;BVLOS.</tspan></text>
+<text x="24" y="167"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">stack&#160;</tspan><tspan fill="#7ee787">C++&#160;·&#160;PX4&#160;·&#160;STM32</tspan></text>
+<text x="24" y="189"><tspan fill="#7ee787">&#160;✔&#160;</tspan><tspan fill="#c9d1d9">beagle</tspan><tspan fill="#7ee787">&#160;&#160;Built</tspan></text>
+<text x="24" y="233"><tspan fill="#58a6ff">&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">[ampl&#160;1/1]&#160;</tspan><tspan fill="#c9d1d9">Research&#160;Engineer&#160;—&#160;Autonomous&#160;Vehicles</tspan></text>
+<text x="24" y="255"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#58a6ff">AMPL&#160;·&#160;Madrid&#160;&#160;</tspan><tspan fill="#8b949e">Aug&#160;2023&#160;–&#160;Jul&#160;2025</tspan></text>
+<text x="24" y="277"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">Perception,&#160;mapping&#160;&amp;&#160;sensor&#160;fusion&#160;for&#160;autonomous&#160;vehicles.</tspan></text>
+<text x="24" y="299"><tspan fill="#8b949e">&#160;=&gt;&#160;=&gt;&#160;</tspan><tspan fill="#8b949e">stack&#160;</tspan><tspan fill="#7ee787">ROS2&#160;·&#160;Python&#160;·&#160;LiDAR</tspan></text>
+<text x="24" y="321"><tspan fill="#7ee787">&#160;✔&#160;</tspan><tspan fill="#c9d1d9">ampl</tspan><tspan fill="#7ee787">&#160;&#160;Built</tspan></text>
+</g>
+</svg>

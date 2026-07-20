@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="235" viewBox="0 0 1000 235" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
 <rect x="0" y="0" width="1000" height="235" rx="10" fill="#0d1117"/>
-<rect x="0" y="0" width="4" height="235" fill="#bc8cff"/>
 <g font-size="13" xml:space="preserve">
 <text x="24" y="35"><tspan fill="#7ee787">fernando@velahidalgo</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$&#160;</tspan><tspan fill="#c9d1d9">cat&#160;~/education.txt</tspan></text>
 <text x="24" y="79"><tspan fill="#bc8cff">M.Sc.&#160;Robotics&#160;and&#160;Automation</tspan></text>
