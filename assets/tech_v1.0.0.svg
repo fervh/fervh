@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586" height="301" viewBox="0 0 586 301" font-family="'DejaVu Sans Mono','SFMono-Regular',Consolas,monospace">
+<rect x="0" y="0" width="586" height="301" rx="10" fill="#0d1117"/>
+<rect x="0" y="0" width="586" height="30" rx="10" fill="#161b22"/>
+<rect x="0" y="20" width="586" height="10" fill="#161b22"/>
+<circle cx="18" cy="15" r="5.5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5.5" fill="#ffbd2e"/>
+<circle cx="54" cy="15" r="5.5" fill="#27c93f"/>
+<text x="293.0" y="19" text-anchor="middle" font-size="11" fill="#8b949e">top - tech --sort=%CPU</text>
+<rect x="0" y="30" width="586" height="2" fill="#7ee787" opacity="0.55"/>
+<g font-size="13" xml:space="preserve">
+<text x="24" y="57"><tspan fill="#8b949e">&#160;&#160;PID&#160;&#160;&#160;%CPU&#160;&#160;&#160;%MEM&#160;&#160;&#160;</tspan><tspan fill="#7ee787">COMMAND</tspan></text>
+<text x="24" y="79"><tspan fill="#8b949e">&#160;2601&#160;&#160;</tspan><tspan fill="#f0b72f">&#160;46.0</tspan><tspan fill="#c9d1d9">&#160;&#160;</tspan><tspan fill="#58a6ff">&#160;12.1</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">languages</tspan></text>
+<text x="24" y="101"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">Python&#160;·&#160;C++&#160;·&#160;C&#160;·&#160;C#&#160;·&#160;JavaScript&#160;·&#160;MATLAB</tspan></text>
+<text x="24" y="123"><tspan fill="#8b949e">&#160;2602&#160;&#160;</tspan><tspan fill="#f0b72f">&#160;31.2</tspan><tspan fill="#c9d1d9">&#160;&#160;</tspan><tspan fill="#58a6ff">&#160;22.4</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">robotics-embedded</tspan></text>
+<text x="24" y="145"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">ROS&#160;/&#160;ROS2&#160;·&#160;Arduino&#160;·&#160;Raspberry&#160;Pi&#160;·&#160;PX4&#160;·</tspan></text>
+<text x="24" y="167"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">ArduPilot&#160;·&#160;STM32&#160;·&#160;FreeRTOS</tspan></text>
+<text x="24" y="189"><tspan fill="#8b949e">&#160;2603&#160;&#160;</tspan><tspan fill="#f0b72f">&#160;22.5</tspan><tspan fill="#c9d1d9">&#160;&#160;</tspan><tspan fill="#58a6ff">&#160;18.7</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">perception-ai</tspan></text>
+<text x="24" y="211"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">OpenCV&#160;·&#160;PyTorch&#160;·&#160;TensorFlow&#160;·&#160;LiDAR</tspan></text>
+<text x="24" y="233"><tspan fill="#8b949e">&#160;2604&#160;&#160;</tspan><tspan fill="#f0b72f">&#160;14.8</tspan><tspan fill="#c9d1d9">&#160;&#160;</tspan><tspan fill="#58a6ff">&#160;&#160;6.3</tspan><tspan fill="#c9d1d9">&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">tools</tspan></text>
+<text x="24" y="255"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">Git&#160;·&#160;GitHub&#160;·&#160;Docker&#160;·&#160;Linux&#160;·&#160;CMake&#160;·&#160;Bash&#160;·</tspan></text>
+<text x="24" y="277"><tspan fill="#8b949e">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;↳&#160;</tspan><tspan fill="#7ee787">AWS</tspan></text>
+</g>
+</svg>
