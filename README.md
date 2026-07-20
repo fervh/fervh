@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header_v1.2.2.svg" alt="Fernando Vela Hidalgo" width="100%">
+<img src="assets/header_v1.2.3.svg" alt="Fernando Vela Hidalgo" width="100%">
 
 <br/>
 <br/>
@@ -14,20 +14,20 @@
 <br/>
 <br/>
 
-<img src="assets/whoami_v1.2.2.svg" alt="fernando@velahidalgo — whoami" width="100%">
+<img src="assets/whoami_v1.2.3.svg" alt="fernando@velahidalgo — whoami" width="100%">
 
-<img src="assets/summary_v1.2.2.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
+<img src="assets/summary_v1.2.3.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
 
-<img src="assets/tech_v1.2.2.svg" alt="Tech Stack" width="100%">
+<img src="assets/tech_v1.2.3.svg" alt="Tech Stack" width="100%">
 
-<img src="assets/experience_v1.2.2.svg" alt="Experience" width="100%">
+<img src="assets/experience_v1.2.3.svg" alt="Experience" width="100%">
 
-<img src="assets/projects_v1.2.2.svg" alt="Projects" width="100%">
+<img src="assets/projects_v1.2.3.svg" alt="Projects" width="100%">
 
-<img src="assets/education_v1.2.2.svg" alt="Education" width="100%">
+<img src="assets/education_v1.2.3.svg" alt="Education" width="100%">
 
-<img src="assets/achievements_v1.2.2.svg" alt="Achievements & Licenses" width="100%">
+<img src="assets/achievements_v1.2.3.svg" alt="Achievements & Licenses" width="100%">
 
-<img src="assets/footer_v1.2.2.svg" alt="This is the way. — The Mandalorian" width="100%">
+<img src="assets/footer_v1.2.3.svg" alt="This is the way. — The Mandalorian" width="100%">
 
 </div>
