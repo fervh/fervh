@@ -1,84 +1,95 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=200&section=header&text=Fernando%20Vela%20Hidalgo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%">
+<img src="assets/header.svg" alt="Fernando Vela Hidalgo" width="100%">
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/fernandovh/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="mailto:contact@velahidalgo.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://fernando.velahidalgo.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06b6d4?style=for-the-badge&logoColor=white" />
-    </a>
-  </p>
+<br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Robotics+%26+Autonomous+Systems;UAV+Flight+Control+%26+Firmware;Bridging+Hardware+%26+Software" alt="Typing Effect" />
-  </a>
+<img src="assets/whoami.svg" alt="fernando@velahidalgo — whoami" width="100%">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-fernando.velahidalgo.com-06b6d4?style=for-the-badge&logo=firefox&logoColor=white)](https://fernando.velahidalgo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandovelahidalgo/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@velahidalgo.com)
 
 </div>
 
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/info.png"/> Summary
+## `//` Summary
 
-**Senior Software Engineer** and **Roboticist** with a deep focus on the intersection of **Artificial Intelligence**, **Hardware**, and **Control Systems**.
+<div align="center">
 
-Currently optimizing BVLOS operations for UAVs at **Beagle Systems** (Germany), utilizing extensive experience in **ROS/ROS2**, **Embedded Firmware (STM32/PX4)**, and **Computer Vision**. My background bridges the gap between academic R&D (UC3M) and industrial deployment, ensuring robust performance for autonomous systems in real-world environments.
+<img src="assets/summary.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
+
+</div>
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/maintenance.png"/> Technical Arsenal
+## `//` Tech Stack
 
 <table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Software & AI</h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp,matlab,ros&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,docker&theme=dark" /><br><br>
-      <img src="https://img.shields.io/badge/Focus-Perception_%26_Planning-38bdf8?style=flat-square" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Embedded & Flight</h3>
-      <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,linux&theme=dark" /><br>
-      <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
-      <img src="https://img.shields.io/badge/PX4-333333?style=flat&logo=dji&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ardupilot-F54D50?style=flat&logo=arduino&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Focus-Firmware_%26_Drivers-38bdf8?style=flat-square" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Tools & Design</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,aws,unity&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=cmake,bash,vscode,blender&theme=dark" /><br><br>
-      <img src="https://img.shields.io/badge/Focus-Sim_%26_DevOps-38bdf8?style=flat-square" />
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td valign="middle"><b>Languages & Frameworks</b></td>
+      <td valign="middle"><img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,matlab&theme=dark" height="30" /> <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="28" /></td>
+    </tr>
+    <tr>
+      <td valign="middle"><b>Robotics & Autonomy</b></td>
+      <td valign="middle"><img src="https://skillicons.dev/icons?i=ros&theme=dark" height="30" /> <img src="https://img.shields.io/badge/PX4-333333?style=for-the-badge&logo=dji&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/ArduPilot-F54D50?style=for-the-badge&logo=arduino&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/SLAM-22314E?style=for-the-badge" height="28" /> <img src="https://img.shields.io/badge/Flight_Control-4B0082?style=for-the-badge" height="28" /></td>
+    </tr>
+    <tr>
+      <td valign="middle"><b>Perception & AI</b></td>
+      <td valign="middle"><img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=dark" height="30" /> <img src="https://img.shields.io/badge/LiDAR-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Sensor_Fusion-5C3EE8?style=for-the-badge" height="28" /></td>
+    </tr>
+    <tr>
+      <td valign="middle"><b>Embedded & RTOS</b></td>
+      <td valign="middle"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="30" /> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/NuttX-0055A4?style=for-the-badge" height="28" /> <img src="https://img.shields.io/badge/CAN_Bus-D35400?style=for-the-badge" height="28" /></td>
+    </tr>
+    <tr>
+      <td valign="middle"><b>Tools & Delivery</b></td>
+      <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,cmake,bash,aws&theme=dark" height="30" /> <img src="https://img.shields.io/badge/CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/CAD-F5792A?style=for-the-badge&logo=autodesk&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/3D_Printing-1E88E5?style=for-the-badge" height="28" /></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/briefcase.png"/> Experience & Projects
+## `//` Experience
 
-| Role / Project                                             | Description                                                             | Tech Stack                                                                                                                                                                                                                                             |
-| :--------------------------------------------------------- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Senior Software Engineer**<br>@ Beagle Systems (Hamburg) | Developing flight control firmware & drivers for long-range BVLOS UAVs. | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![PX4](https://img.shields.io/badge/-PX4-333333?logo=dji&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) |
-| **Research Technician**<br>@ AMPL, UC3M (Madrid)           | Real-time perception & sensor fusion for autonomous shuttles.           | ![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LiDAR](https://img.shields.io/badge/-LiDAR-000?logo=nvidia&logoColor=white)           |
-| **Autonomous Mini Vehicle**<br>Academic Project            | Full-stack autonomous driving platform (Perception, Planning, Control). | ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)                                                                                           |
-| **VR Teleoperation**<br>Master's Thesis                    | Immersive VR interface for robot teleoperation over WebRTC.             | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)                                                                                     |
+**Senior Software Engineer — UAV Systems** · `Beagle Systems` — Hamburg, DE &nbsp;·&nbsp; _Sep 2025 – Present_
 
----
+Architect the complete UAV software stack on STM32/ARM for long-range BVLOS operations: flight control for fixed-wing & VTOL (PX4/ArduPilot), LiDAR/camera perception under FreeRTOS/NuttX, and hardware interfaces (CAN/USB/SPI/I2C/SDIO) — plus tooling, simulation and automated testing.
 
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/graduation-cap.png"/> Education
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![PX4](https://img.shields.io/badge/-PX4-333333?logo=dji&logoColor=white) ![ArduPilot](https://img.shields.io/badge/-ArduPilot-F54D50?logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-008080?logo=freertos&logoColor=white)
 
-| Degree                                        | Institution                             | Period        |
-| :-------------------------------------------- | :-------------------------------------- | :------------ |
-| **Master in Robotics and Automation**         | Universidad Carlos III de Madrid (UC3M) | _2023 - 2025_ |
-| **B.Sc. Industrial Electronics & Automation** | Universidad Carlos III de Madrid (UC3M) | _2019 - 2023_ |
+<br>
+
+**Research Engineer — Autonomous Vehicles** · `AMPL` — Madrid, ES &nbsp;·&nbsp; _Aug 2023 – Jul 2025_
+
+Built perception, mapping and localization for connected & autonomous vehicles; integrated and calibrated LiDAR, cameras, IMU and GNSS in real environments, with data validation for safety-critical systems.
+
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![LiDAR](https://img.shields.io/badge/-LiDAR-76B900?logo=nvidia&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/22/38bdf8/certificate.png"/> Certifications & Achievements
+## `//` Projects
+
+| Project | Description | Stack |
+| :------ | :---------- | :---- |
+| **Vehicle Immersion System** | Master's Thesis (10/10): immersive VR platform for real-time vehicle interaction and teleoperation. | `Unity` `VR` `ROS` `C#` |
+| **Miniature Autonomous Vehicle** | Bachelor's Thesis: end-to-end autonomous driving platform — perception, planning and control. | `ROS` `OpenCV` `C++` `Control` |
+
+---
+
+## `//` Education
+
+| Degree | Institution | Period |
+| :----- | :---------- | :----- |
+| **M.Sc. Robotics and Automation**<br><sub>Thesis: Vehicle Immersion System — 10/10</sub> | Carlos III University of Madrid (UC3M) | _2023 – 2025_ |
+| **B.Sc. Industrial Electronics & Automation (Bilingual)**<br><sub>Thesis: Miniature Autonomous Vehicle</sub> | Carlos III University of Madrid (UC3M) | _2019 – 2023_ |
+
+---
+
+## `//` Achievements & Licenses
 
 <table width="100%">
   <tr>
@@ -91,8 +102,9 @@ Currently optimizing BVLOS operations for UAVs at **Beagle Systems** (Germany), 
     </td>
     <td width="50%" valign="top">
       <h4>Awards</h4>
-      <img src="https://img.shields.io/badge/Master's_Thesis-Grade_10%2F10-FFD700?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Master's_Thesis-10%2F10_(2025)-FFD700?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/ASTI_Robotics-1st_Place_(2019)-FFD700?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Young_Researchers-Finalist_·_UCM-FFD700?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -102,15 +114,6 @@ Currently optimizing BVLOS operations for UAVs at **Beagle Systems** (Germany), 
 
 <div align="center">
 
-[![@fervh](https://img.shields.io/badge/%40fervh-2f3136?style=flat-square&logo=github&logoColor=white)](https://github.com/fervh)
+<img src="assets/footer.svg" alt="This is the way. — The Mandalorian" width="100%">
 
----
-
-> <em>"This is the way."</em>  
-> — <strong>The Mandalorian</strong>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%" />
 </div>
