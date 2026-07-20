@@ -3,14 +3,18 @@
 <img src="assets/header.svg" alt="Fernando Vela Hidalgo" width="100%">
 
 <br/>
-
-<img src="assets/whoami.svg" alt="fernando@velahidalgo — whoami" width="100%">
-
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fernando.velahidalgo.com-06b6d4?style=for-the-badge&logo=firefox&logoColor=white)](https://fernando.velahidalgo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandovelahidalgo/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@velahidalgo.com)
+<a href="https://fernando.velahidalgo.com"><img src="https://img.shields.io/badge/PORTFOLIO-Website-06b6d4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=06b6d4" height="42" alt="PORTFOLIO" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fernandovelahidalgo/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="42" alt="LINKEDIN" /></a>
+&nbsp;&nbsp;
+<a href="mailto:contact@velahidalgo.com"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=D14836" height="42" alt="EMAIL" /></a>
+
+<br/>
+<br/>
+
+<img src="assets/whoami.svg" alt="fernando@velahidalgo — whoami" width="100%">
 
 </div>
 
