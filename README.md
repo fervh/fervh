@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header_v1.0.0.svg" alt="Fernando Vela Hidalgo" width="100%">
+<img src="assets/header_v1.1.0.svg" alt="Fernando Vela Hidalgo" width="100%">
 
 <br/>
 <br/>
@@ -14,58 +14,20 @@
 <br/>
 <br/>
 
-<img src="assets/whoami_v1.0.0.svg" alt="fernando@velahidalgo — whoami" width="100%">
+<img src="assets/whoami_v1.1.0.svg" alt="fernando@velahidalgo — whoami" width="100%">
 
-<br/>
+<img src="assets/summary_v1.1.0.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
 
-<img src="assets/summary_v1.0.0.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
+<img src="assets/tech_v1.1.0.svg" alt="Tech Stack" width="100%">
 
-</div>
+<img src="assets/experience_v1.1.0.svg" alt="Experience" width="100%">
 
----
+<img src="assets/projects_v1.1.0.svg" alt="Projects" width="100%">
 
-<div align="center">
+<img src="assets/education_v1.1.0.svg" alt="Education" width="100%">
 
-<img src="assets/tech_v1.0.0.svg" alt="Tech Stack" />
+<img src="assets/achievements_v1.1.0.svg" alt="Achievements & Licenses" width="100%">
 
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/experience_v1.0.0.svg" alt="Experience" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/projects_v1.0.0.svg" alt="Projects" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/education_v1.0.0.svg" alt="Education" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/achievements_v1.0.0.svg" alt="Achievements & Licenses" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/footer_v1.0.0.svg" alt="This is the way. — The Mandalorian" width="100%">
+<img src="assets/footer_v1.1.0.svg" alt="This is the way. — The Mandalorian" width="100%">
 
 </div>
