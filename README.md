@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Fernando Vela Hidalgo" width="100%">
+<img src="assets/header_v1.0.0.svg" alt="Fernando Vela Hidalgo" width="100%">
 
 <br/>
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img src="assets/whoami.svg" alt="fernando@velahidalgo — whoami" width="100%">
+<img src="assets/whoami_v1.0.0.svg" alt="fernando@velahidalgo — whoami" width="100%">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="assets/summary.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
+<img src="assets/summary_v1.0.0.svg" alt="Summary — Fernando Vela Hidalgo" width="100%">
 
 </div>
 
@@ -105,6 +105,6 @@
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="This is the way. — The Mandalorian" width="100%">
+<img src="assets/footer_v1.0.0.svg" alt="This is the way. — The Mandalorian" width="100%">
 
 </div>
